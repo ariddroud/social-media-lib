@@ -16,3 +16,5 @@ Install the library and use the provided functions to interact with social media
 ## Future Plans
 - Add support for more social media platforms
 - Improve error handling and logging.
+- Implement unit tests for core functionalities.
+- Create a demo application using the library.
